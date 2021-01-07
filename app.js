@@ -5,6 +5,7 @@ var header = document.querySelector(".header");
 var reset_button = document.querySelector("#reset");
 var pickedColor,clickedColor;
 
+
 var colors = [
   "rgb(255, 0, 0)",
   "rgb(255, 255, 0)",
