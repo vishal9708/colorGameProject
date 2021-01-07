@@ -15,6 +15,7 @@ var colors = [
   "rgb(0, 255, 255)",
 ];
 
+
 colorDisplay.textContent=pickColor();
 
 reset_button.addEventListener("click",function(){
