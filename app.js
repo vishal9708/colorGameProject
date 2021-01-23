@@ -116,7 +116,7 @@ function getRGBvalue()
  //set all color of the square to clicked color, if it matches
 //with the picked color.
 function setAllColor(){
-    header.style.backgroundColor=clickedColor;
+    header.style.backgroundColor="yellow";
     for(var i=0;i<squares.length;i++)
     {
       squares[i].style.backgroundColor=clickedColor;
