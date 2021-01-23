@@ -98,7 +98,7 @@ function reset(){
       }
 
       reset_button.textContent="New Color";
-      header.style.backgroundColor="yellow";
+      header.style.backgroundColor="steelblue";
       message.textContent=" ";
       pickedColor = colors[Math.floor(Math.random()*colors.length)];
       colorDisplay.textContent=pickedColor;
